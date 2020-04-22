@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/football-voting/static/css/main.f2edec28.chunk.css",
+    "main.js": "/football-voting/static/js/main.ef6d88d7.chunk.js",
+    "main.js.map": "/football-voting/static/js/main.ef6d88d7.chunk.js.map",
+    "runtime-main.js": "/football-voting/static/js/runtime-main.2ed2f2d9.js",
+    "runtime-main.js.map": "/football-voting/static/js/runtime-main.2ed2f2d9.js.map",
+    "static/js/2.8db35b86.chunk.js": "/football-voting/static/js/2.8db35b86.chunk.js",
+    "static/js/2.8db35b86.chunk.js.map": "/football-voting/static/js/2.8db35b86.chunk.js.map",
+    "index.html": "/football-voting/index.html",
+    "precache-manifest.c6ced66713b8cab928ae518b2feef424.js": "/football-voting/precache-manifest.c6ced66713b8cab928ae518b2feef424.js",
+    "service-worker.js": "/football-voting/service-worker.js",
+    "static/css/main.f2edec28.chunk.css.map": "/football-voting/static/css/main.f2edec28.chunk.css.map",
+    "static/js/2.8db35b86.chunk.js.LICENSE.txt": "/football-voting/static/js/2.8db35b86.chunk.js.LICENSE.txt",
+    "static/media/barcelona.png": "/football-voting/static/media/barcelona.124393ed.png",
+    "static/media/bayern-munich.png": "/football-voting/static/media/bayern-munich.f9ba3050.png",
+    "static/media/liverpool.png": "/football-voting/static/media/liverpool.f51c530a.png",
+    "static/media/real-madrid.png": "/football-voting/static/media/real-madrid.e974351b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ed2f2d9.js",
+    "static/js/2.8db35b86.chunk.js",
+    "static/css/main.f2edec28.chunk.css",
+    "static/js/main.ef6d88d7.chunk.js"
+  ]
+}
