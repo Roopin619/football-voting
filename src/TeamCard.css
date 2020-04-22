@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Handlee&display=swap");
+
+.TeamCard {
+  width: 22%;
+  background-color: azure;
+  margin: 1rem 0.8rem;
+  border-radius: 0.7rem;
+  padding-bottom: 2rem;
+  padding-top: 0.5rem;
+  font-family: "Handlee", cursive;
+  box-shadow: 0 0.6rem 2rem rgba(0, 0, 0, 0.4),
+    0 0.5rem 0.6rem rgba(0, 0, 0, 0.2);
+}
+
+.TeamCard-logo img {
+  width: 150px;
+  height: 150px;
+}
+
+.TeamCard-vote {
+  font-size: 1.8rem;
+  padding: 0.5rem 0;
+  letter-spacing: 2px;
+}
+
+.TeamCard-btn {
+  cursor: pointer;
+  width: 50%;
+  font-size: 1.3rem;
+  border-radius: 0.5rem;
+  outline: none;
+  border: none;
+  padding: 0.5rem 0;
+  color: azure;
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.3),
+    0 0.3rem 0.4rem rgba(0, 0, 0, 0.2);
+}
+
+.TeamCard-btn:hover {
+  transition: 0.3s ease;
+  transform: scale(1.05);
+}
